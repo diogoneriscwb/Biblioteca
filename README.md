@@ -2,7 +2,7 @@
 
 ---
 
-```markdown
+
 # 📚 Sistema de Biblioteca em Java
 
 Este projeto é um sistema simples de gerenciamento de livros em uma biblioteca, desenvolvido com foco em praticar conceitos de orientação a objetos em Java. Ele permite cadastrar livros, listar todos os livros disponíveis e buscar livros pelo título de forma flexível.
@@ -39,7 +39,7 @@ O principal objetivo é consolidar conhecimentos em:
 
 ## 📦 Estrutura do projeto
 
-```
+
 📁 src/  
 ├── Livro.java         // Classe que representa um livro  
 ├── Biblioteca.java    // Classe que gerencia o acervo de livros  
